@@ -1,4 +1,4 @@
-# Плагин Сравнения Задач
+# Плагин для сравнения приоритета задач
 
 ## Демонстрация
 [2024-05-14-12-53-22-_online-video-cutter.com_.webm](https://github.com/Forwall100/taskelo/assets/78537089/fb4bc275-576a-4040-aa1f-a4f0860393e9)
