@@ -1,0 +1,10 @@
+{
+  "id": "task-elo-plugin",
+  "name": "Task ELO",
+  "version": "1.0.0",
+  "minAppVersion": "0.9.12",
+  "description": "A plugin to compare and sort tasks using an ELO rating system.",
+  "author": "Forwall100",
+  "authorUrl": "https://github.com/Forwall100",
+  "isDesktopOnly": false
+}
